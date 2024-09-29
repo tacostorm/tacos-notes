@@ -11,5 +11,8 @@
     "compatibility": {
         "minimum": "10",
         "verified": "12"
-    }
+    },
+    "esmodules": [
+        "scripts/Main.js"
+    ]
 }
