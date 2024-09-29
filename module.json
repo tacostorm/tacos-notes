@@ -1,0 +1,15 @@
+{
+    "id": "tacos-notes",
+    "title": "Taco's Notes - Ontology Based Collaborative Notetaking",
+    "description": "A new and cool way to take notes together",
+    "authors": [
+        {
+            "name": "Taco Storm"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "12"
+    }
+}
